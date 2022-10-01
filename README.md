@@ -1,0 +1,2 @@
+# Data-Science-Guide
+This repository contains my handwritten quick notes, descriptive notes, books and other resources for Data Science.
