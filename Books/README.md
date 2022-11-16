@@ -18,12 +18,10 @@
 |9|    `Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles`                                                      |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Algorithms%20%26%20Data%20Structures/Data%20Structures%20and%20Algorithms%20Made%20Easy_%20Data%20Structures%20and%20Algorithmic%20Puzzles.pdf)|
 |10|    `Introduction to Algorithms 3e - Cormen, Leiserson, Rivest, and Stein`                                                                  |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Algorithms%20%26%20Data%20Structures/Introduction%20to%20Algorithms%203e%20-%20Cormen%2C%20Leiserson%2C%20Rivest%2C%20and%20Stein.pdf)|
 ||**Statistics**||          
-|11|    `Naked Statistics_ Stripping the Dread from the Data`                                                                                   |[Source]()|   
-|12|    `Practical Statistics for Data Scientists`                                                                                              |[Source]()|
-|13|    `Advanced engineering mathematics`                                                                                                      |[Source]()|
-||**Algorithms**||             
-|14|    `Introduction to Algorithms 3e - Cormen, Leiserson, Rivest, and Stein`                                                                  |[Source]()|
-|15|    `Pattern Classification`                                                                                                                |[Source]()|
+|11|    `Naked Statistics_ Stripping the Dread from the Data`                                                                                   |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Statistics/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data.pdf)|   
+|12|    `Practical Statistics for Data Scientists`                                                                                              |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Statistics/Practical%20Statistics%20for%20Data%20Scientists.pdf)|
+|13|    `Advanced engineering mathematics`                                                                                                      |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Statistics/Advanced%20engineering%20mathematics.pdf)|
+|14|    `Pattern Classification`                                                                                                                |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Statistics/Pattern%20Classification.pdf)|
 ||**Machine Learning**||             
 |16|    `Introduction to Machine Learning with Python`                                                                                          |[Source]()|
 |17|    `Machine Learning For Dummies`                                                                                                          |[Source]()|
