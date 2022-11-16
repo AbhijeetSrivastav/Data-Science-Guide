@@ -11,7 +11,7 @@
 |4|    `Python Cookbook_ Recipes for Mastering Python 3`                                                                                        |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Python/Python%20Cookbook_%20Recipes%20for%20Mastering%20Python%203.pdf)|
 |5|    `Head First Python  A Brain-Friendly Guide`                                                                                              |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Python/Head%20First%20Python%20%20A%20Brain-Friendly%20Guide.pdf)|
 |6|    `AdvancedGuideToPython3Programming`                                                                                                      |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Python/AdvancedGuideToPython3Programming.pdf)|
-||**Electronics with Python**||             
+||**Electronics with Python**             
 |7|    `Programming with MicroPython_ Embedded Programming with Microcontrollers and Python`                                                    |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/tree/main/Books/Electronics%20with%20Python)|
 ||**Algorithms**||             
 |8|    `Grokking Algorithms`                                                                                                                    |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Algorithms%20%26%20Data%20Structures/Grokking%20Algorithms.pdf)|
