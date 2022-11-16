@@ -12,11 +12,11 @@
 |5|    `Head First Python  A Brain-Friendly Guide`                                                                                              |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Python/Head%20First%20Python%20%20A%20Brain-Friendly%20Guide.pdf)|
 |6|    `AdvancedGuideToPython3Programming`                                                                                                      |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Python/AdvancedGuideToPython3Programming.pdf)|
 ||**Electronics with Python**||             
-|7|    `Programming with MicroPython_ Embedded Programming with Microcontrollers and Python`                                                    |[Source]()|
+|7|    `Programming with MicroPython_ Embedded Programming with Microcontrollers and Python`                                                    |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/tree/main/Books/Electronics%20with%20Python)|
 ||**Algorithms**||             
-|8|    `Grokking Algorithms`                                                                                                                    |[Source]()|
-|9|    `Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles`                                                      |[Source]()|
-|10|    `Introduction to Algorithms 3e - Cormen, Leiserson, Rivest, and Stein`                                                                  |[Source]()|
+|8|    `Grokking Algorithms`                                                                                                                    |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Algorithms%20%26%20Data%20Structures/Grokking%20Algorithms.pdf)|
+|9|    `Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles`                                                      |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Algorithms%20%26%20Data%20Structures/Data%20Structures%20and%20Algorithms%20Made%20Easy_%20Data%20Structures%20and%20Algorithmic%20Puzzles.pdf)|
+|10|    `Introduction to Algorithms 3e - Cormen, Leiserson, Rivest, and Stein`                                                                  |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Algorithms%20%26%20Data%20Structures/Introduction%20to%20Algorithms%203e%20-%20Cormen%2C%20Leiserson%2C%20Rivest%2C%20and%20Stein.pdf)|
 ||**Statistics**||          
 |11|    `Naked Statistics_ Stripping the Dread from the Data`                                                                                   |[Source]()|   
 |12|    `Practical Statistics for Data Scientists`                                                                                              |[Source]()|
