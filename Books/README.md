@@ -23,15 +23,15 @@
 |13|    `Advanced engineering mathematics`                                                                                                      |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Statistics/Advanced%20engineering%20mathematics.pdf)|
 |14|    `Pattern Classification`                                                                                                                |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Statistics/Pattern%20Classification.pdf)|
 ||**Machine Learning**||             
-|16|    `Introduction to Machine Learning with Python`                                                                                          |[Source]()|
-|17|    `Machine Learning For Dummies`                                                                                                          |[Source]()|
-|18|    `Machine Learning for Absolute Beginners`                                                                                               |[Source]()|
-|19|    `Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems`              |[Source]()|
+|15|    `Introduction to Machine Learning with Python`                                                                                          |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Machine%20Learning/Introduction%20to%20Machine%20Learning%20with%20Python.pdf)|
+|16|    `Machine Learning For Dummies`                                                                                                          |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Machine%20Learning/Machine%20Learning%20For%20Dummies.pdf)|
+|17|    `Machine Learning for Absolute Beginners`                                                                                               |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Machine%20Learning/Machine%20Learning%20for%20Absolute%20Beginners.pdf)|
+|18|    `Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems`              |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Machine%20Learning/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow_%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems.pdf)|
 ||**Deep Learning**||             
-|20|    `A Statistical Machine Learning Perspective of Deep Learning`                                                                           |[Source]()|
-|21|    `Learning Tensorflow_ A Guide to Building Deep Learning Systems`                                                                        |[Source]()|
-|22|    `Learn Keras for Deep Neural Networks_ A Fast-Track Approach to Modern Deep Learning with Python`                                       |[Source]()|
-|23|    `Deep learning_ adaptive computation and machine learning`                                                                              |[Source]()|
+|19|    `A Statistical Machine Learning Perspective of Deep Learning`                                                                           |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Deep%20Learning/A%20Statistical%20Machine%20Learning%20Perspective%20of%20Deep%20Learning.pdf)|
+|20|    `Learning Tensorflow_ A Guide to Building Deep Learning Systems`                                                                        |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Deep%20Learning/Learning%20Tensorflow_%20A%20Guide%20to%20Building%20Deep%20Learning%20Systems.pdf)|
+|21|    `Learn Keras for Deep Neural Networks_ A Fast-Track Approach to Modern Deep Learning with Python`                                       |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Deep%20Learning/Learn%20Keras%20for%20Deep%20Neural%20Networks_%20A%20Fast-Track%20Approach%20to%20Modern%20Deep%20Learning%20with%20Python.pdf)|
+|22|    `Deep learning_ adaptive computation and machine learning`                                                                              |[Source](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Books/Deep%20Learning/Deep%20learning_%20adaptive%20computation%20and%20machine%20learning.pdf)|
 
 ![-----------------------------------------------------](https://github.com/AbhijeetSrivastav/Machine-Learning-Guide/blob/master/Assets/rainbow.png)
 
