@@ -5,7 +5,7 @@
 
 | S.No | Concept|
 |------|--------|
-|1.|[`Keywords & Identifiers`](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Python/Keywords%20and%20Identifiers.ipynb)|
+|1.|[Keywords & Identifiers](https://github.com/AbhijeetSrivastav/Data-Science-Guide/blob/main/Python/Keywords%20and%20Identifiers.ipynb)|
 
 
 
